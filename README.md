@@ -1,1 +1,2 @@
-# craig.lynch15
+# Google Data Analytics - Coursera
+# Capstone project
